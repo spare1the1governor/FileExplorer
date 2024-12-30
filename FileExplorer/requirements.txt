@@ -1,0 +1,11 @@
+# Requirements for File Manager Project
+# Core requirements
+os
+time
+subprocess
+# Pydantic for input validation
+pydantic==1.10.2
+# Custom exceptions module
+exceptions
+# File input validation model
+validation
